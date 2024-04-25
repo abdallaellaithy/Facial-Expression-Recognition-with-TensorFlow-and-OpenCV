@@ -1,2 +1,16 @@
-# Facial-Expression-Recognition-with-TensorFlow-and-OpenCV
-Discover real-time facial expression recognition using TensorFlow &amp; OpenCV. This project employs MobileNetV2 transfer learning &amp; Haar Cascade for face detection. Explore data preprocessing, model training, &amp; deployment.
+# Facial Expression Recognition using TensorFlow and OpenCV
+
+## Dependencies
+
+- TensorFlow
+- OpenCV
+- Matplotlib
+- NumPy
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your_username/facial-expression-recognition.git
+```
