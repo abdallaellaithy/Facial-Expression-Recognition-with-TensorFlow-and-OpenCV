@@ -1,7 +1,6 @@
 # Facial Expression Recognition using TensorFlow and OpenCV
 
 ## Dependencies
-
 - TensorFlow
 - OpenCV
 - Matplotlib
@@ -22,13 +21,13 @@ cd facial-expression-recognition
 ```
 pip install tensorflow opencv-python matplotlib numpy
 ```
-##Usage
+# Usage
 To run the facial expression recognition script:
 ```
 python facial_expression_recognition.py
 ```
 Make sure to replace 'facial_expression_recognition.py' with the name of your Python script if it differs.
-##Functionality
+## Functionality
 The script performs the following tasks:
 
 1. Loads and preprocesses the training images from the 'train' directory.
